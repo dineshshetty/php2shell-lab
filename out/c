@@ -1,0 +1,2 @@
+exec >/out/p1 2>&1
+id;hostname -I;hostname
